@@ -2,7 +2,7 @@
 
 Utility to ease Excel files comparison with Spreadsheetcompare.
 More specifically, enables Excel files diff in version control softwares
-
+用来比对excel
 ## Purpose
 
 Spreadsheetcompare is a tool available in Office which is not command-line friendly.
